@@ -1,4 +1,4 @@
-# Machine-Learning-Preprocessing-Checklist
+# Machine-Learning-Checklist
 
 Steps of preprocessing a dataset
 1. Tokenization
