@@ -6,4 +6,7 @@ Steps of preprocessing a dataset
 3. Remove stop words
 4. Normalization (Downcast the first letter of a sentence)
 5. Acronyms
-6. TF-IDF
+
+Next Step
+1. TF-IDF
+2. N-grams
