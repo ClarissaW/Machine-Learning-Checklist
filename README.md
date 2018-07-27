@@ -8,5 +8,10 @@ Steps of preprocessing a dataset
 5. Acronyms
 
 Next Step
-1. TF-IDF
-2. N-grams
+1. Bag of words
+2. TF-IDF
+
+
+Algorithms
+1. Logistic Regression
+2. LSTMs
